@@ -1,6 +1,4 @@
-package conectAndroid;
-
-
+package servidorAndroid;
 
 // Configurar un servidor que reciba una conexión de un cliente, envíe
 // una cadena al cliente y cierre la conexión.
@@ -221,3 +219,4 @@ public class Servidor extends JFrame {
         }
  
 } // fin de la clase Servidor
+
